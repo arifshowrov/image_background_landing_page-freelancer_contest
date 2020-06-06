@@ -52,7 +52,7 @@ button:hover{
 .count {
     position: absolute;
     top: 50%;
-    left: 8%;
+    left: 50%;
     transform: translate(-50%, -50%);
     color: #fff;
     font-size: 32px;
@@ -68,10 +68,12 @@ button:hover{
 
 .icons{
        position: absolute;
-    top: 27%;
-    left: 2%;
+    top: 35%;
+    left: 50%;
     font-size: 45px;
-    
+/*    color: #009dff;*/
+    transition: .4s;
+    transform: translate(-50%, -50%)
 }
 .fab{
     color: #009dff;
@@ -80,6 +82,7 @@ button:hover{
 .fab:hover{
     color: #ff5a5a;
 }
+
 
 
 
