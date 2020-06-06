@@ -11,7 +11,7 @@
 $('#counter').jQuerySimpleCounter({
     start:  0,
 
-	end:100,
+	end:30646,
     easing: 'swing',
     duration: 2000,
     complete: ''
