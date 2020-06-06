@@ -71,9 +71,15 @@ button:hover{
     top: 27%;
     left: 2%;
     font-size: 45px;
-    color: #009dff;
+    
 }
-
+.fab{
+    color: #009dff;
+    transition: .4s;
+}
+.fab:hover{
+    color: #ff5a5a;
+}
 
 
 
